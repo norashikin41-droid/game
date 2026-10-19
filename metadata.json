@@ -1,0 +1,6 @@
+{
+  "name": "Pemecah Kod Rahsia: Bilik Lepas Diri Algebra",
+  "description": "Aplikasi permainan bilik lepas diri matematik: pengurusan stesen kembangan & pemfaktoran, pengesahan kata laluan automatik, pemasa, papan pemuka langsung, dan rekod sejarah pengadil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
